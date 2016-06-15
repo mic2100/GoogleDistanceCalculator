@@ -1,0 +1,16 @@
+{
+  "name": "mic2100/GoogleDistanceCalculator",
+  "description": "Use the Google maps API to get a distance calculation between 2 points.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Bardsley"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Mic2100\\GoogleDistanceCalculator\\": "src/"
+    }
+  }
+}
